@@ -1,8 +1,6 @@
 # uPyBodyTempIR-MicroBit
 
-Pseudocódigo da interface gráfica do BBC Micro:bit. O **módulo statistics não é utilizado** devido a **pouca memória** do BBC Micro:bit. Código produzido para iniciativas contra o [COVID-19](https://gitlab.com/rcolistete/computacaofisica-privado/-/tree/master/uPyBodyTempIR). 
-
-Tal produção entra nos requisitos propostos pela FAPES, como consta no resumo das atividades de abril ([202004_Atividades](https://github.com/EduardoDestefani/IC-Mag-privado/blob/master/Atividades/202004-12_Atividades_IC_FAPES_especial/202004_Atividades/202004_Atividades.md)).
+Pseudocódigo da interface gráfica do BBC Micro:bit. O **módulo statistics não é utilizado** devido a **pouca memória** do BBC Micro:bit. Código produzido para iniciativas contra o [COVID-19](https://gitlab.com/rcolistete/computacaofisica-privado/-/tree/master/uPyBodyTempIR). Tal produção entra nos requisitos propostos pela FAPES (Fundação de Amparo à Pesquisa e Inovação do Espírito Santo), como consta no resumo das atividades a partir de abril ([202004_Atividades](https://github.com/EduardoDestefani/IC-Mag-privado/blob/master/Atividades/202004-12_Atividades_IC_FAPES_especial/202004_Atividades/202004_Atividades.md)).
 
 O código principal está na sétima versão (v0.7).
 
